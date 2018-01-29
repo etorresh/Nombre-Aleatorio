@@ -3,4 +3,4 @@
 
 Solo selecciona las letras que quieres que contenga.
 
-Requiere Colorama 0.3.9 o mayor.
+Requiere [Colorama 0.3.9](https://pypi.python.org/pypi/colorama) o mayor.
