@@ -8,7 +8,7 @@ init()
 
 letras = string.ascii_lowercase
 vocales = "aeiou"
-consonantes = "bcdefghjklmnpqrstvwxyz"
+consonantes = "bcdfghjklmnpqrstvwxyz"
 
 def generador(numero_de_letras):
 	nombre = ""
